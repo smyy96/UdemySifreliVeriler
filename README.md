@@ -11,4 +11,5 @@ görüntülemek istediğimizde ise verilerin şifresini çözüp kullanıcıya g
 * MsSql
 ```
 
+![Ekran Alıntısı](https://user-images.githubusercontent.com/62007900/147301831-fd4b30f1-508e-4f4b-9a6c-ada42989896d.JPG)
 
